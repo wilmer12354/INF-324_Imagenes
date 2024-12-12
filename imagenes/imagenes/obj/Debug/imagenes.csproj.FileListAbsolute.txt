@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\bin\Debug\imagenes.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\bin\Debug\imagenes.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\imagenes\imagenes\obj\Debug\imagenes.pdb
